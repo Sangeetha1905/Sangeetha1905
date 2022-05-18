@@ -13,5 +13,5 @@ Here are some ideas to get you started:-->
 I'm a web designer, good at UI design. I know Html ,CSS, JavaScript, Reac, NodeJS and MongoDBt. I have an experience in E-pub job. Now, I am looking for a job. 
 
 <!-- Github Stats for repos -->
-![Sangeetha19057 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangeetha19057&theme=dark&show_icons=true&count_private=true)
+![jadore-coder GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadore-coder&theme=dark&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha19057&theme=dark)
