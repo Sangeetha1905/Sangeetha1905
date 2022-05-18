@@ -14,4 +14,4 @@ I'm a web designer, good at UI design. I know Html ,CSS, JavaScript, Reac, NodeJ
 
 <!-- Github Stats for repos -->
 ![jadore-coder GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadore-coder&theme=dark&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha19057&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadore-coder&theme=dark)
